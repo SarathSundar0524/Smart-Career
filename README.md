@@ -32,7 +32,7 @@ learning-path-recommender/
 │     └── courses.csv
 # Course dataset
 │── /screenshots
-      └── ui.png          # Optional UI screenshot
+      └── ui.png
 
 Installation
 1. Clone the repository
