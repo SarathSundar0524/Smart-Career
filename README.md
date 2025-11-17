@@ -22,11 +22,15 @@ Clean, interactive Streamlit interface
 
 Project Structure
 learning-path-recommender/
-│── app.py                # Streamlit application
-│── requirements.txt      # Dependencies
-│── README.md             # Documentation
+│── app.py 
+# Streamlit application
+│── requirements.txt 
+# Dependencies
+│── README.md
+# Documentation
 │── /data
-│     └── courses.csv     # Course dataset
+│     └── courses.csv
+# Course dataset
 │── /screenshots
       └── ui.png          # Optional UI screenshot
 
